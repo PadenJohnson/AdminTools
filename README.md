@@ -6,4 +6,4 @@ Run SecGui.py through cmd with python to start program
 
 Currently this gives you buttons to turn on or off your mic and camera at a low lvl code
 
-I apologize for the crude setup, just starting code
+I apologize for the crude setup, just starting code working on an installer currently
