@@ -1,9 +1,10 @@
 # AdminTools
 Network or local admin tools made for ease of use
-Download python and use pip to install module PyQt5
-afterward you can download files
-Run SecGui.py through cmd with python to start program
+Buttons to turn on or off your mic and camera at a low level code to ensure top saftey!
 
-Currently this gives you buttons to turn on or off your mic and camera at a low lvl code
+Installer and App shortcuts included in the file to keep things easy!
+Now with two printer fixes if your printer stops working.
+(one that restarts print que manager and the next that will delete possibly stuck print jobs)
 
-I apologize for the crude setup, just starting code working on an installer currently
+
+![simpleSec](https://user-images.githubusercontent.com/44533491/186295130-9f11f339-dd73-4865-9461-c61e76392578.png)
